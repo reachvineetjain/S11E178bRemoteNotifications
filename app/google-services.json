@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "327034303924",
+    "firebase_url": "https://fcm-remote-notifications.firebaseio.com",
+    "project_id": "fcm-remote-notifications",
+    "storage_bucket": "fcm-remote-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327034303924:android:69dc92e2b703b18f",
+        "android_client_info": {
+          "package_name": "com.nehvin.s11e178bremotenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327034303924-tm9ns1gis4r1o9c27vr5jrvimibou2at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK0GdwzB2DXqEqgSeE3XxMLFeUYrE_Nwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
